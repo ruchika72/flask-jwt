@@ -1,9 +1,6 @@
 # Stores REST Api
 
-This is REST API developed in python and built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy and finally deployed on Heroku. The testing is done using Postman.
-
-# Link : 
-https://python-flask-rest-api-stores.herokuapp.com/
+This is REST API developed in python and built with Flask, Flask-RESTful, and Flask-JWT. The testing is done using Postman.
 
 # REST APIs :
 
